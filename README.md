@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- <p align="left"> -->
+  <!-- 内容が増えたら公開する -->
+  <!-- <a href="https://github.com/r-sugi">
+    <img height="20" src="https://komarev.com/ghpvc/?username=r-sugi" />
+  </a>
+  <a href="https://github.com/r-sugi">
+    <img height="20" src="https://img.shields.io/github/followers/r-sugi?label=follow&logo=github&style=flat" />
+  </a> -->
 
-<!--
-**r-sugi/r-sugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- qiita -->
+  <!-- <a href="http://qiita.com/r-sugi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/r-sugi/posts.svg" />
+  </a>
+  <a href="http://qiita.com/r-sugi">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/r-sugi/contributions.svg" />
+  </a> -->
 
-Here are some ideas to get you started:
+  <!-- 内容が増えたら公開する -->
+  <!-- <a href="https://zenn.dev/rsugi">
+    <img height="20" src="https://badgen.org/img/zenn/rsugi/articles?style=plastic" />
+  </a> -->
+<!-- </p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-sugi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-sugi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-sugi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-sugi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-sugi&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=r-sugi&theme=gruvbox)
