@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [個人技術ブログ -->](#個人技術ブログ---)
+- [個人技術ブログ](#個人技術ブログ)
 - [Stats](#stats)
 - [Trophy](#trophy)
 - [得意分野](#得意分野)
@@ -24,15 +24,15 @@
 
 <!-- /TOC -->
 
+
+
+## 個人技術ブログ
+https://zenn.dev/rsugi
 <p align="left">
   <a href="https://zenn.dev/rsugi">
     <img height="20" src="https://badgen.org/img/zenn/rsugi/articles?style=plastic" />
   </a>
 </p>
-
-## 個人技術ブログ -->
-https://zenn.dev/rsugi
-- https://blog.hatena.ne.jp/sugimoon/r-sugi.hatenablog.com/
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-sugi&theme=gruvbox)
@@ -63,7 +63,8 @@ https://zenn.dev/rsugi
 - フロントはReact.js、サーバサイドはNest.jsがメイン
 - 好奇心旺盛で技術のキャッチアップが早い
 - チームリーダーの経験があるため、チーム全体を意識した立ち回りもできる
-- 個人受託開発を通じて依頼主(PO)と商談・開発・納品までを一人で行なった経験があり、ビジネスサイドとの折衝に慣れている
+- ビジネスサイドとの折衝に慣れている
+  - 例: 個人受託開発で、発注者と商談・開発・納品までを一人で行なった経験がある
 - 問題を解決しようとする行動力
   - 例: (node-redis)[https://github.com/redis/node-redis/issues/2564]
 - 嫌がる仕事を進んで引き取るような献身性
