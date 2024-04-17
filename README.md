@@ -128,9 +128,6 @@
 - Stripe
 - Sentry
 
-趣味
-- 筋トレ、シーシャ、外食、海外旅行
-
 ## 希望案件
 
 Must
@@ -205,5 +202,5 @@ NG
 - 税理士科目（簿記論、財務諸表論、消費税法）
   - ※法人税法、相続税法は受験経験のみ
 
-<!-- ## 関連リンク
-- <a href="https://docs.google.com/spreadsheets/d/1xAcG_K3tHALlV0c8UXiPJTxvRvfxczIm/edit#gid=937275608" target="_blank">スプレッドシート版スキルシート</a> -->
+趣味
+- 筋トレ、シーシャ、外食、海外旅行
